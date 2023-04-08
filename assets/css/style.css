@@ -1,0 +1,28 @@
+.flex-c-m{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.w-full{
+    width: 100%;
+}
+.logo1{
+    width: 200px;
+    height: 200px;
+}
+.borderrd{
+border-radius: 5rem;
+}
+.w-200{
+    width: 200px;
+}
+.m-b{
+margin-bottom: 10px;
+}
+.m-t{
+    margin-top: 10px;
+}
+.filter-shadow{
+    filter: drop-shadow(2px 4px 6px black);
+}
